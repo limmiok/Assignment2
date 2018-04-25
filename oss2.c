@@ -46,7 +46,6 @@ void filetime1(void)
 //파일 2의 시간 정보를 가져오는 함수 작성
 void filetime2(void)
 {
-
 }
 
 //두 개의 파일 크기를 비교하는 함수 작성
